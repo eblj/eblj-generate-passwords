@@ -19,12 +19,17 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#d8d8d8"
       },
-      "package": "com.eblj.generate-passwords"
+      "package": "com.juniorrjs.ebljgeneratepasswords"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "86f4cdc8-d4ba-456d-94c0-2b7a680c4708"
+      }
     }
   }
 }
